@@ -1,2 +1,2 @@
 # gitalk
-gitalk demo for www.hacking8.com
+a gitalk demo for www.hacking8.com
